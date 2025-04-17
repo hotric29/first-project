@@ -1,1 +1,2 @@
 Xin chào Github!
+Bản cập nhật version 2 của hello.txt
